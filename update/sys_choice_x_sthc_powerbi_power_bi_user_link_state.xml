@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_sthc_powerbi_power_bi_user_link" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Waiting Approval</label>
+            <language>en</language>
+            <name>x_sthc_powerbi_power_bi_user_link</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-10-04 22:50:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bda996ccdb896b4040f8fcfa0c961924</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-10-04 22:51:15</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_sthc_powerbi_power_bi_user_link</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-10-04 22:50:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c4b996ccdb896b4040f8fcfa0c9619b7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-10-04 22:51:13</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_sthc_powerbi_power_bi_user_link</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-10-04 22:50:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>cdb9d64cdb896b4040f8fcfa0c96199e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-10-04 22:51:11</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_sthc_powerbi_power_bi_user_link</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-10-04 22:50:24</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c0b9d2ccdb896b4040f8fcfa0c9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="PowerBI" source="x_sthc_powerbi">66a30684db096b4040f8fcfa0c96192a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PowerBI">66a30684db096b4040f8fcfa0c96192a</sys_scope>
+            <sys_update_name>sys_choice_x_sthc_powerbi_power_bi_user_link_state</sys_update_name>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-10-04 22:50:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

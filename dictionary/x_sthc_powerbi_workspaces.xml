@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Workspaces" max_length="40" name="x_sthc_powerbi_workspaces" type="collection">
+        <element label="AD Group" max_length="40" name="ad_group" reference="sys_user_group" reference_qual="typeLIKEcfb98248db296fc040f8fcfa0c96195a^EQ" reference_qual_condition="typeLIKEcfb98248db296fc040f8fcfa0c96195a^EQ" type="glide_list"/>
+        <element label="Application Owner" max_length="32" name="application_owner" reference="sys_user" type="reference"/>
+        <element label="Application Owning Team" max_length="32" name="application_owning_team" reference="sys_user_group" type="reference"/>
+        <element display="true" label="Application Workspace Name" max_length="40" name="application_workspace_name" type="string"/>
+        <element label="Description" max_length="2000" name="description" type="string"/>
+        <element attributes="pdf_cell_type=image" label="Icon" max_length="40" name="icon" type="user_image"/>
+        <element label="Test Workspace Name" max_length="40" name="test_workspace" type="string"/>
+        <index name="index">
+            <element name="application_owning_team"/>
+        </index>
+        <index name="index2">
+            <element name="application_owner"/>
+        </index>
+    </element>
+</database>

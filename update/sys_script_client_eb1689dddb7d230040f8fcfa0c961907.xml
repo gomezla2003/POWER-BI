@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>application_workspace_name</field>
+        <global>true</global>
+        <messages/>
+        <name>udpate test workspace name</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;   
+   }
+
+	var name =  g_form.getValue('application_workspace_name');
+	g_form.setValue('test_workspace', name + "-Only");
+
+
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-11-14 20:46:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>eb1689dddb7d230040f8fcfa0c961907</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>udpate test workspace name</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PowerBI" source="x_sthc_powerbi">66a30684db096b4040f8fcfa0c96192a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PowerBI">66a30684db096b4040f8fcfa0c96192a</sys_scope>
+        <sys_update_name>sys_script_client_eb1689dddb7d230040f8fcfa0c961907</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-11-14 20:48:52</sys_updated_on>
+        <table>x_sthc_powerbi_workspaces</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

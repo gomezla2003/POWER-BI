@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Power BI User Link" max_length="40" name="x_sthc_powerbi_power_bi_user_link" type="collection">
+        <element choice="1" default="1&#13;&#10;" label="State" max_length="40" name="state" type="string">
+            <choice>
+                <element label="Approved" value="2"/>
+                <element label="Rejected" value="3"/>
+                <element label="Waiting Approval" value="1"/>
+            </choice>
+        </element>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <element label="WorkSpace" max_length="32" name="workspace" reference="x_sthc_powerbi_workspaces" type="reference"/>
+        <index name="index">
+            <element name="workspace"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

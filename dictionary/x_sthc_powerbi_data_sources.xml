@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Data Sources" max_length="40" name="x_sthc_powerbi_data_sources" type="collection">
+        <element label="Connection Details" max_length="40" name="connection_details" type="string"/>
+        <element label="Data Source" max_length="500" name="data_source" type="string"/>
+        <element label="Developer Groups With Permissions" max_length="40" name="permission_groups" reference="sys_user_group" reference_qual="typeLIKEcfb98248db296fc040f8fcfa0c96195a^EQ" reference_qual_condition="typeLIKEcfb98248db296fc040f8fcfa0c96195a^EQ" type="reference"/>
+    </element>
+</database>
