@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_report_users_groups">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id display_value="Enterprise Data Management" name="Enterprise Data Management">a6f3909d6f203100a60095fd5d3ee438</group_id>
         <report_id display_value="PowerBI users">146ac70cdb2d6fc040f8fcfa0c961929</report_id>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="application_workspace_name" label="Application Workspace Name" language="en" table="x_sthc_powerbi_workspaces">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>application_workspace_name</element>

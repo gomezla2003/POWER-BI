@@ -1,95 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_sthc_powerbi_workspaces" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>ad_group</element>
-            <list_id display_value="x_sthc_powerbi_workspaces" element="NULL" name="x_sthc_powerbi_workspaces" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">76c7924cdb896b4040f8fcfa0c96192d</list_id>
+            <element>application_workspace_name</element>
+            <list_id display_value="x_sthc_powerbi_workspaces" element="NULL" name="x_sthc_powerbi_workspaces" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">92dd9e9ddb3ea74096b17d8bbf9619b2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-10-04 22:42:08</sys_created_on>
-            <sys_id>bec7924cdb896b4040f8fcfa0c96192d</sys_id>
+            <sys_created_on>2019-01-03 20:10:52</sys_created_on>
+            <sys_id>5add9e9ddb3ea74096b17d8bbf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-10-04 22:42:08</sys_updated_on>
+            <sys_updated_on>2019-01-03 20:10:52</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>application_owner</element>
-            <list_id display_value="x_sthc_powerbi_workspaces" element="NULL" name="x_sthc_powerbi_workspaces" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">76c7924cdb896b4040f8fcfa0c96192d</list_id>
+            <list_id display_value="x_sthc_powerbi_workspaces" element="NULL" name="x_sthc_powerbi_workspaces" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">92dd9e9ddb3ea74096b17d8bbf9619b2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-10-04 22:42:08</sys_created_on>
-            <sys_id>36c7924cdb896b4040f8fcfa0c96192e</sys_id>
+            <sys_created_on>2019-01-03 20:10:52</sys_created_on>
+            <sys_id>dadd9e9ddb3ea74096b17d8bbf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-10-04 22:42:08</sys_updated_on>
+            <sys_updated_on>2019-01-03 20:10:52</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>application_owning_team</element>
-            <list_id display_value="x_sthc_powerbi_workspaces" element="NULL" name="x_sthc_powerbi_workspaces" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">76c7924cdb896b4040f8fcfa0c96192d</list_id>
+            <list_id display_value="x_sthc_powerbi_workspaces" element="NULL" name="x_sthc_powerbi_workspaces" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">92dd9e9ddb3ea74096b17d8bbf9619b2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-10-04 22:42:08</sys_created_on>
-            <sys_id>b6c7924cdb896b4040f8fcfa0c96192e</sys_id>
+            <sys_created_on>2019-01-03 20:10:52</sys_created_on>
+            <sys_id>5edd9e9ddb3ea74096b17d8bbf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-10-04 22:42:08</sys_updated_on>
+            <sys_updated_on>2019-01-03 20:10:52</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>application_workspace_name</element>
-            <list_id display_value="x_sthc_powerbi_workspaces" element="NULL" name="x_sthc_powerbi_workspaces" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">76c7924cdb896b4040f8fcfa0c96192d</list_id>
+            <element>description</element>
+            <list_id display_value="x_sthc_powerbi_workspaces" element="NULL" name="x_sthc_powerbi_workspaces" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">92dd9e9ddb3ea74096b17d8bbf9619b2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-10-04 22:42:08</sys_created_on>
-            <sys_id>3ac7924cdb896b4040f8fcfa0c96192e</sys_id>
+            <sys_created_on>2019-01-03 20:10:52</sys_created_on>
+            <sys_id>dedd9e9ddb3ea74096b17d8bbf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-10-04 22:42:08</sys_updated_on>
+            <sys_updated_on>2019-01-03 20:10:52</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>description</element>
-            <list_id display_value="x_sthc_powerbi_workspaces" element="NULL" name="x_sthc_powerbi_workspaces" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">76c7924cdb896b4040f8fcfa0c96192d</list_id>
+            <element>test_workspace</element>
+            <list_id display_value="x_sthc_powerbi_workspaces" element="NULL" name="x_sthc_powerbi_workspaces" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">92dd9e9ddb3ea74096b17d8bbf9619b2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-10-04 22:42:08</sys_created_on>
-            <sys_id>bac7924cdb896b4040f8fcfa0c96192e</sys_id>
+            <sys_created_on>2019-01-03 20:10:52</sys_created_on>
+            <sys_id>52dd9e9ddb3ea74096b17d8bbf9619b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-10-04 22:42:08</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>test_workspace</element>
-            <list_id display_value="x_sthc_powerbi_workspaces" element="NULL" name="x_sthc_powerbi_workspaces" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">76c7924cdb896b4040f8fcfa0c96192d</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>5</position>
-            <sum>false</sum>
-            <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-10-04 22:42:08</sys_created_on>
-            <sys_id>3ec7924cdb896b4040f8fcfa0c96192e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-10-04 22:42:08</sys_updated_on>
+            <sys_updated_on>2019-01-03 20:10:52</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -103,10 +87,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>LGOMEZ</sys_created_by>
-            <sys_created_on>2018-10-04 22:42:08</sys_created_on>
+            <sys_created_on>2019-01-03 20:10:52</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>76c7924cdb896b4040f8fcfa0c96192d</sys_id>
+            <sys_id>92dd9e9ddb3ea74096b17d8bbf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_sthc_powerbi_workspaces</sys_name>
             <sys_package display_value="PowerBI" source="x_sthc_powerbi">66a30684db096b4040f8fcfa0c96192a</sys_package>
@@ -115,7 +99,7 @@
             <sys_scope display_value="PowerBI">66a30684db096b4040f8fcfa0c96192a</sys_scope>
             <sys_update_name>sys_ui_list_x_sthc_powerbi_workspaces_null</sys_update_name>
             <sys_updated_by>LGOMEZ</sys_updated_by>
-            <sys_updated_on>2018-10-04 22:42:08</sys_updated_on>
+            <sys_updated_on>2019-01-03 20:10:52</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

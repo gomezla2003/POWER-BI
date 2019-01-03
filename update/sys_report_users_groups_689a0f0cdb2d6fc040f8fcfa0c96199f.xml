@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_report_users_groups">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id display_value="Revenue Cycle Business Operations" name="Revenue Cycle Business Operations">e372bdbb6f95ca0061f09ea22e3ee45e</group_id>
         <report_id display_value="PowerBI users">146ac70cdb2d6fc040f8fcfa0c961929</report_id>
