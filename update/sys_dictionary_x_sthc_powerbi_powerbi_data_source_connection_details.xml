@@ -34,7 +34,7 @@
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>200</max_length>
         <name>x_sthc_powerbi_powerbi_data_source</name>
         <next_element/>
         <primary>false</primary>
@@ -55,7 +55,7 @@
         <sys_created_on>2019-01-04 18:52:27</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>60f49f25dbb26b4096b17d8bbf961957</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Connection Details</sys_name>
         <sys_package display_value="PowerBI" source="x_sthc_powerbi">66a30684db096b4040f8fcfa0c96192a</sys_package>
         <sys_policy/>
@@ -63,7 +63,7 @@
         <sys_scope display_value="PowerBI">66a30684db096b4040f8fcfa0c96192a</sys_scope>
         <sys_update_name>sys_dictionary_x_sthc_powerbi_powerbi_data_source_connection_details</sys_update_name>
         <sys_updated_by>LGOMEZ</sys_updated_by>
-        <sys_updated_on>2019-01-04 18:52:27</sys_updated_on>
+        <sys_updated_on>2019-01-18 18:39:23</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
