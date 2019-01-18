@@ -16,21 +16,21 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_sthc_powerbi</source>
-        <store_correlation_id>REPOAPP0000096089</store_correlation_id>
+        <store_correlation_id>REPOAPP0000096863</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>LGOMEZ</sys_created_by>
         <sys_created_on>2018-10-29 22:40:13</sys_created_on>
         <sys_id>66a30684db096b4040f8fcfa0c96192a</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_updated_by>LGOMEZ</sys_updated_by>
-        <sys_updated_on>2019-01-18 18:59:54</sys_updated_on>
+        <sys_updated_on>2019-01-18 19:08:19</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.5</version>
+        <version>1.0.6</version>
     </sys_app>
 </record_update>
